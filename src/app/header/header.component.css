@@ -1,16 +1,7 @@
-/* You can add global styles to this file, and also import other style files */
-@import "~@angular/material/prebuilt-themes/indigo-pink.css";
-@import "~bootstrap/dist/css/bootstrap.css";
-
-
-h1 {
-    text-align: center;
-}
-
 .wrapper-header  {
     height: 30vh;
     padding: 30px;
-    background: #FF8C00;
+    background: #dcbc81;
     color: #fff;
     box-shadow: 0 2px 5px -2px grey;
     }
@@ -40,7 +31,3 @@ h1 {
     font-size: 18px;
     }
     }
-
-.container {
-    width: 100%;
-}
