@@ -12,4 +12,10 @@ export class HeaderComponent implements OnInit {
   ngOnInit() {
   }
 
+  gotoGraficos() {
+    //verificação
+    window.location.href = ('/graficos');
+  }
+  
+
 }
