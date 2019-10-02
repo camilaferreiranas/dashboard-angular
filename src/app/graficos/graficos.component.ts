@@ -20,7 +20,8 @@ export class GraficosComponent implements OnInit {
         type: "column",
         dataPoints: [
           { y: 50, label: "Dentro" },
-          { y: 10, label: "Fora" }
+          { y: 10, label: "Fora" }, 
+          {y: 90, label: "Ticket Médio"}
         ]
       }]
     });
